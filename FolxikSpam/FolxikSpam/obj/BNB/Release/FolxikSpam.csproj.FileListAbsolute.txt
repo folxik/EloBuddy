@@ -1,0 +1,9 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\FolxikSpam.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\FolxikSpam.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\EloBuddy.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\EloBuddy.SDK.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\SharpDX.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\FolxikSpam\FolxikSpam\obj\BNB\Release\FolxikSpam.exe
+C:\Users\Adam\Documents\GitPortable\EB\FolxikSpam\FolxikSpam\obj\BNB\Release\FolxikSpam.exe

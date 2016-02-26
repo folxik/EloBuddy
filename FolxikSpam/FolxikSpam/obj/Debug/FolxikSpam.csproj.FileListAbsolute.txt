@@ -1,0 +1,22 @@
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.exe
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.pdb
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\EloBuddy.dll
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\EloBuddy.SDK.dll
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\SharpDX.dll
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\bin\Debug\Newtonsoft.Json.dll
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.exe
+c:\users\adam\documents\visual studio 2015\Projects\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.pdb
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.exe.config
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.exe
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.pdb
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.exe
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\FolxikSpam.pdb
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\EloBuddy.dll
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\SharpDX.dll
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\Documents\GitPortable\EloBuddyAddons\FolxikSpam\FolxikSpam\obj\Debug\FolxikSpam.csprojResolveAssemblyReference.cache
